@@ -1,0 +1,24 @@
+{
+    "title": "Invoice Report",
+    "tables": [
+        {
+            "header": [
+                "Product",
+                "Quantity",
+                "Price"
+            ],
+            "rows": [
+                [
+                    "Widget A",
+                    "10",
+                    "$25"
+                ],
+                [
+                    "Widget B",
+                    "5",
+                    "$45"
+                ]
+            ]
+        }
+    ]
+}
